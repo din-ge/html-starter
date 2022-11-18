@@ -2,3 +2,4 @@
 <p>Clone:</p>
 <pre>git clone https://github.com/din-ge/html-starter.git .; rm -rf trunk .gitignore readme.md .git</pre>
 <a href="http://omedia.ge/tools/lipsum/">ქართული ტექსტების გენერატორი (ლორენ იპსუმ)</a>
+<a href="https://web-fonts.ge/">ქართული ვებ-ფონტების კატალოგი</a>
